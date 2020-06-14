@@ -65,7 +65,7 @@ class ViewController: NSViewController {
                 print(memoData[1].count)
                 print(memoData[0][0])
                 print(memoData[0][1])
-                
+
                 print(memoData[1][0])
                 print(memoData[1][1])
                 print(memoData[1][2])
